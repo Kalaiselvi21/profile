@@ -1,4 +1,3 @@
-# profile
 # Hello! 👋
 
 ## 🚀 About Me
@@ -118,4 +117,9 @@ Prime Focus Technology provides **unified content operations as a service** for 
 
 ## 📖 Hobbies
 📚 Reading Books | 🎨 Drawing | ✍️ Writing Haikus | 🧠 Sudoku
+
+## 📞 Contact
+- **Email:** kalai.cs21@gmail.com 
+- **Phone:** +91 6363169122
+
 

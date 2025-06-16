@@ -1,53 +1,39 @@
 # Hello! 👋
 
 ## 🚀 About Me
-I am a **Support Lead** with **2 years of experience** in my current Mbanq organization and **over 8 years** of prior experience as a **Support Engineer**. I specialize in handling **customer escalations, service improvements, troubleshooting**, and ensuring **uninterrupted customer services** with quick solutions.
+I am a **Support Lead** with **2+ years of experience** in my current Mbanq organization and **over 8+ years** of prior experience as a **Support Engineer**. I specialize in handling **customer escalations, service improvements, troubleshooting**, and ensuring **uninterrupted customer services** with quick solutions.
 
 ---
 
 ## 💻 Technical Skills
 
-### Primary Skills
-- .Net, Java, Windows Administrator, MS-SQL Administrator
-- IIS, JBOSS, Jenkins, MySQL, Heidisql, pgAdmin4
-
-### Ticketing Tools
-- OTRS, RTC, JIRA
-
-### Knowledge Repository
-- Confluence, Temenos HowTo
-
-### Defect Tracking Tools
-- JIRA (Bug Tracker), Temenos Defect Doc
-
-### Databases
-- SQL Server 2005/2008, MS-Access
-
-### Operating Systems
-- Windows 2000/NT/XP
-
-### Packages & Tools
-- MS-Office, DBMS, Adobe
-- Visual Studio, Diva, Masstech, Guvnor, Rhozet, NLB, Postman
-
-### UI Skills
-- HTML, CSS
+- **Programming & Scripting:** .NET, Java, Python, HTML, CSS 
+- **Database Management:** MS-SQL Server (2005/2008), MySQL, MS-Access, HeidiSQL, pgAdmin4 
+- **Cloud Platforms (AWS):** S3 (storage and access), CloudWatch (log monitoring and alerting, Lambda (basic debugging) 
+- **Monitoring & Debugging Tools:** Postman (API testing), Fiddler, Jenkins (pipeline monitoring), AWS CloudWatch, Metabase (dashboard monitoring), Tableau (reporting and visualization) 
+- **Tools & Utilities:** Visual Studio, Diva, Masstech, Guvnor, Rhozet, NLB 
+- **Version Control & Collaboration:** GitHub, JIRA, RTC, OTRS, Confluence 
+- **Web & Application Servers:** IIS, JBOSS 
+- **Ticketing & Defect Tracking:** JIRA (Bug Tracking), Temenos Defect Documentation 
+- **Documentation & Knowledge Repositories:** Confluence, Temenos HowTo 
+- **Operating Systems:** Windows Server 
+- **Office & Productivity:** Microsoft Office (Word, Excel, PowerPoint), Adobe Suite 
 
 ---
 
 ## 📌 Professional Experience
 
 ### **Mbanq /FNLK Development Pvt Ltd.,** *(January 2023 – Present)*
-Mbanq is a leading **FinTech** providing digital banking technology and **Banking-as-a-Service (BaaS)** across Europe, the Middle East, and Asia.
+Mbanq is a leading **FinTech** providing digital banking technology and **Banking-as-a-Service (BaaS)** across US, Europe, the Middle East, and Asia.
 
 #### Roles & Responsibilities
 - Act as **Support Lead** for all clients, coordinating with sponsored banks.
 - Oversee **client onboarding**, including **product configuration, user/account creation, AML setup, transfer limit configuration**, and **charge setup** via UI and backend.
 - Deliver **reconciliation reports**, ensuring transactions between sponsored banks and clients are accurate.
-- Configure **Metabase alerts** for seamless **payment rail reconciliation**.
+- Configured **Metabase alerts** to proactively monitor daily payment rail reconciliation, enabling early detection of anomalies such as fraud, high-value transactions, and recurring issues. 
 
 #### Accomplishments
-✅ Automated processes using **Python scripts**, ensuring timely delivery of reconciliation reports.
+✅ Automated processes using **Python scripts**, ensuring on-time delivery of reconciliation reports and overall client’s monthly account analysis reports.   
 
 ---
 
@@ -55,8 +41,8 @@ Mbanq is a leading **FinTech** providing digital banking technology and **Bankin
 A banking software provider catering to global financial organizations.
 
 #### Roles & Responsibilities
-- Joined as **Senior Support Engineer** for **T24 banking clients** and managed the team in the absence of the manager.
-- Independently managed **two modules (PW & CRM)** within six months.
+- Joined as **Senior Support Engineer/L2** for **T24 banking clients** and managed the team in the absence of the manager.
+- As part of technology framework team resolved customer’s T24 system setup related issues, along with that **independently managed two modules** (PW and CRM) within six months of joining.   
 - Conducted **code-level analysis** for client issues, created **detailed defect documents**, and liaised with development teams.
 - Authored **HowTo documents** and shared workarounds with clients.
 
@@ -69,10 +55,9 @@ A banking software provider catering to global financial organizations.
 Prime Focus Technology provides **unified content operations as a service** for global entertainment and media organizations.
 
 #### Roles & Responsibilities
-- Served as **L2 Technical Engineer** for **APAC & EMEA** regions.
+- Served as **L1 and then L2 Technical Engineer** for **APAC & EMEA** regions.
 - Managed **live streaming support** for websites and applications on Windows.
-- Set up **new cloud data centers, media centers, and servers** for clients.
-- Coordinated onsite and offshore teams to analyze and document business requirements.
+- Coordinated onsite and offshore teams to analyze issues and document business requirements.
 - Maintained **high-quality support documentation**.
 
 #### Accomplishments
@@ -119,8 +104,8 @@ Prime Focus Technology provides **unified content operations as a service** for 
 📚 Reading Books | 🎨 Drawing | ✍️ Writing Haikus | 🧠 Sudoku
 
 ## 📞 Contact
-- **Email:** kalai.cs21@gmail.com 
-- **Phone:** +91 6363169122
+- **Email:** kalaiselviramanathan21@gmail.com 
+- **Phone:** +91-6363169122
 
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Kalaiselvi21)
